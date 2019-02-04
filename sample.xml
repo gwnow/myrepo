@@ -7,25 +7,25 @@
     <learningAssessmentbody>
         <lcInteraction>
             <lcSingleSelect2>
-                <lcQuestion2><p>Aligning the HR business unit and functional area strategies to the
-                        organizational strategy creates which desired outcome?</p></lcQuestion2>
+                <lcQuestion2>Aligning the HR business unit and functional area strategies to the
+                    organizational strategy creates which desired outcome?</lcQuestion2>
                 <lcAnswerOptionGroup2>
                     <lcAnswerOption2>
-                        <lcAnswerContent2><p>Creating a line-of-sight between individual work and
-                                organizational results.</p></lcAnswerContent2>
+                        <lcAnswerContent2>Creating a line-of-sight between individual work and
+                            organizational results.</lcAnswerContent2>
                         <lcCorrectResponse2/>
                     </lcAnswerOption2>
                     <lcAnswerOption2>
-                        <lcAnswerContent2><p>Demonstrating concern with only the people aspects of
-                                the organization.</p></lcAnswerContent2>
+                        <lcAnswerContent2>Demonstrating concern with only the people aspects of the
+                            organization.</lcAnswerContent2>
                     </lcAnswerOption2>
                     <lcAnswerOption2>
-                        <lcAnswerContent2><p>Acting as a critical support unit of the corporate
-                                strategy.</p></lcAnswerContent2>
+                        <lcAnswerContent2>Acting as a critical support unit of the corporate
+                            strategy.</lcAnswerContent2>
                     </lcAnswerOption2>
                     <lcAnswerOption2>
-                        <lcAnswerContent2><p>Aligning both a cost management and profit focus for
-                                all.</p></lcAnswerContent2>
+                        <lcAnswerContent2>Aligning both a cost management and profit focus for
+                            all.</lcAnswerContent2>
                     </lcAnswerOption2>
                 </lcAnswerOptionGroup2>
                 <lcFeedbackCorrect2><p>As a management system (strategy) is aligned or cascaded
@@ -37,3 +37,4 @@
         </lcInteraction>
     </learningAssessmentbody>
 </learningAssessment>
+<?oxy_options track_changes="on"?>
