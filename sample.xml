@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE learningAssessment PUBLIC "-//OASIS//DTD DITA 1.3 Learning Assessment//EN" "learning/dtd/learningAssessment.dtd" [
+]>
+
+<learningAssessment id="id18CJF0K0V5Z">
+    <title>4_13_39</title>
+    <learningAssessmentbody>
+        <lcInteraction>
+            <lcSingleSelect2>
+                <lcQuestion2><p>Aligning the HR business unit and functional area strategies to the
+                        organizational strategy creates which desired outcome?</p></lcQuestion2>
+                <lcAnswerOptionGroup2>
+                    <lcAnswerOption2>
+                        <lcAnswerContent2><p>Creating a line-of-sight between individual work and
+                                organizational results.</p></lcAnswerContent2>
+                        <lcCorrectResponse2/>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2>
+                        <lcAnswerContent2><p>Demonstrating concern with only the people aspects of
+                                the organization.</p></lcAnswerContent2>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2>
+                        <lcAnswerContent2><p>Acting as a critical support unit of the corporate
+                                strategy.</p></lcAnswerContent2>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2>
+                        <lcAnswerContent2><p>Aligning both a cost management and profit focus for
+                                all.</p></lcAnswerContent2>
+                    </lcAnswerOption2>
+                </lcAnswerOptionGroup2>
+                <lcFeedbackCorrect2><p>As a management system (strategy) is aligned or cascaded
+                        through each core business function it becomes more operational and tactical
+                        as do the performance measures. This allows for everyone to understand how
+                        they contribute, individually, to the organizations success.
+                    </p></lcFeedbackCorrect2>
+            </lcSingleSelect2>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment>
